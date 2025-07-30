@@ -20,3 +20,4 @@ if __name__ == "__main__":
     print("Subtraction of 5 from 10:", subtract(10, 5))
     print("Multiplication of 4 and 6:", multiply(4, 6))
     print("Division of 8 by 2:", divide(8, 2))
+    print("Expermental feature: Fibonacci sequence next")
