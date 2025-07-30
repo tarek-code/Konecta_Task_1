@@ -4,9 +4,13 @@ def add(a,b):
 def subtract(a, b):
     #Returns the difference of a and b.
     return a - b
+def multiply(a, b):
+    #Returns the product of a and b.
+    return a * b
 print("This is a simple calculator module.")
 
 if __name__ == "__main__":
     print("Testing the calculator functions...")
     print("Addition of 5 and 3:", add(5, 3))
     print("Subtraction of 5 from 10:", subtract(10, 5))
+    print("Multiplication of 4 and 6:", multiply(4, 6))
