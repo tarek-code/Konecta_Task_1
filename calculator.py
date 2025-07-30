@@ -3,7 +3,7 @@ def add(a,b):
     return a + b
 def subtract(a, b):
     #Returns the difference of a and b.
-    return a + b # bug intentional
+    return a - b
 def multiply(a, b):
     #Returns the product of a and b.
     return a * b
